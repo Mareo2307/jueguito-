@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 035cb2bd28991514da9b19ce0a11afb0
+guid: edbd9d5df79b23541a968257255a2513
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 250
+  spritePixelsToUnits: 300
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,6 +69,19 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -106,459 +119,362 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Character_0
+      name: Mapache Dra_0
       rect:
         serializedVersion: 2
-        x: 53
-        y: 796
-        width: 142
-        height: 231
+        x: 57
+        y: 859
+        width: 136
+        height: 183
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c01d09e6b3229248902dfde99a4a9a3
-      internalID: -1223707862
+      spriteID: 6c98a3d01b7209143abf5e39632e5055
+      internalID: -615494298
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_1
+      name: Mapache Dra_1
       rect:
         serializedVersion: 2
-        x: 239
-        y: 796
-        width: 135
-        height: 229
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 50
+        y: 618
+        width: 109
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.48577455}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da9138c017f7c094eb3b4e5ad4a11411
-      internalID: 55716707
+      spriteID: cd943b960fd54124f9f55b1bdae85cf6
+      internalID: -1383848390
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_2
+      name: Mapache Dra_2
       rect:
         serializedVersion: 2
-        x: 413
-        y: 796
-        width: 128
-        height: 212
+        x: 259
+        y: 629
+        width: 101
+        height: 174
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0dd45deea31757243b5b43ee1225b0f0
-      internalID: -764246916
+      spriteID: e840c6df58bbecd4e8b1205a5b1988f7
+      internalID: 1549330544
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_3
+      name: Mapache Dra_3
       rect:
         serializedVersion: 2
-        x: 574
-        y: 796
-        width: 125
-        height: 201
+        x: 474
+        y: 627
+        width: 108
+        height: 170
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c6077198a0aa0c0409a91df57816d735
-      internalID: 1065867793
+      spriteID: 4cead2bb70f404a47b7199cb4d3fc381
+      internalID: 399224372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_4
+      name: Mapache Dra_4
       rect:
         serializedVersion: 2
-        x: 735
-        y: 796
-        width: 128
-        height: 212
+        x: 688
+        y: 618
+        width: 113
+        height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6c8181c48adf6645a5c2a1929ce6670
-      internalID: -1462205283
+      spriteID: 7c1d4031b4293734882b998eaa3709e5
+      internalID: 1436710802
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_5
+      name: Mapache Dra_5
       rect:
         serializedVersion: 2
-        x: 893
-        y: 796
-        width: 135
-        height: 229
+        x: 7
+        y: 445
+        width: 194
+        height: 132
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 105a2a5fe787f4d41a181ed71a7fab0a
-      internalID: 449081951
+      spriteID: 8907922d5710d564f88ff4823bfffdf1
+      internalID: -549759331
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_6
+      name: Mapache Dra_6
       rect:
         serializedVersion: 2
-        x: 151
-        y: 539
-        width: 116
-        height: 231
+        x: 212
+        y: 440
+        width: 197
+        height: 132
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56c6ffc60d0223d429740cc6944f539a
-      internalID: 676543274
+      spriteID: 45f9c896f9e8ce34798d6655ceb78bed
+      internalID: 1644565892
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_7
+      name: Mapache Dra_7
       rect:
         serializedVersion: 2
-        x: 326
-        y: 539
-        width: 119
-        height: 228
+        x: 434
+        y: 442
+        width: 195
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8df7fc43e2a792545a8be35edf2b1b3c
-      internalID: 335166018
+      spriteID: 5cbe04d79d901c64e812bf9a6bd6c61f
+      internalID: -1012505400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_8
+      name: Mapache Dra_8
       rect:
         serializedVersion: 2
-        x: 486
-        y: 541
-        width: 131
-        height: 219
+        x: 646
+        y: 434
+        width: 189
+        height: 133
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9881752681374ee449e67376ccc5e48a
-      internalID: -1446288971
+      spriteID: d6c2b48f2c21c5d498e345a656be9d2c
+      internalID: 770949355
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_9
+      name: Mapache Dra_9
       rect:
         serializedVersion: 2
-        x: 649
-        y: 539
-        width: 119
-        height: 228
+        x: 13
+        y: 254
+        width: 192
+        height: 121
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9cb95427d7a4654f827af841c9baabe
-      internalID: 2101110014
+      spriteID: 27f6af6b5af22c344aa7f96bbf0b74b7
+      internalID: -793224288
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_10
+      name: Mapache Dra_10
       rect:
         serializedVersion: 2
-        x: 814
-        y: 539
-        width: 116
-        height: 230
+        x: 221
+        y: 252
+        width: 199
+        height: 126
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ba55175bf4d88948b6a7adb9812e6ff
-      internalID: 2071265979
+      spriteID: 49d59424d4937b44eb4d9a8be75ebca8
+      internalID: 52353649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_11
+      name: Mapache Dra_11
       rect:
         serializedVersion: 2
-        x: 151
-        y: 288
-        width: 116
-        height: 231
+        x: 434
+        y: 248
+        width: 198
+        height: 131
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43f58cbf5c26b0f4bbc8ad3b5013fbb7
-      internalID: -1924833317
+      spriteID: b7747afff3a82ec489867a8754917947
+      internalID: 1367125885
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_12
+      name: Mapache Dra_12
       rect:
         serializedVersion: 2
-        x: 313
-        y: 288
-        width: 119
-        height: 228
+        x: 647
+        y: 245
+        width: 197
+        height: 136
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d21d4097b054c24b8cbf0be4b166a48
-      internalID: -2092598908
+      spriteID: 60d62ef6529c9c648b20fa686456e626
+      internalID: -102993491
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_13
+      name: Mapache Dra_13
       rect:
         serializedVersion: 2
-        x: 464
-        y: 291
-        width: 131
-        height: 218
+        x: 59
+        y: 68
+        width: 89
+        height: 149
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f3ce561ba492474e93443daf9ebe131
-      internalID: 8476104
+      spriteID: c2312a17885db964c88eaa198b5cc794
+      internalID: -540426192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_14
+      name: Mapache Dra_14
       rect:
         serializedVersion: 2
-        x: 636
-        y: 288
-        width: 119
-        height: 228
+        x: 272
+        y: 66
+        width: 87
+        height: 151
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1fc68dc1d0a2194a997b49592f3ff17
-      internalID: 1509315376
+      spriteID: 50204197c80fc77408996882504d318e
+      internalID: 960841296
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_15
+      name: Mapache Dra_15
       rect:
         serializedVersion: 2
-        x: 814
-        y: 289
-        width: 116
-        height: 230
+        x: 463
+        y: 65
+        width: 88
+        height: 151
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9259d334a67cf5b42a4b80a591c73bfc
-      internalID: 1357980164
+      spriteID: 5a35f88b50daaab4a9109fe198de781d
+      internalID: -1338306753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_16
+      name: Mapache Dra_16
       rect:
         serializedVersion: 2
-        x: 91
-        y: 44
-        width: 138
-        height: 230
+        x: 684
+        y: 66
+        width: 89
+        height: 151
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5cf29b249ae6aca4e812bd71ed5ed802
-      internalID: 833784080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_17
-      rect:
-        serializedVersion: 2
-        x: 275
-        y: 44
-        width: 141
-        height: 219
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f72ccb7d7f1083479c68644e37db835
-      internalID: 1023389184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_18
-      rect:
-        serializedVersion: 2
-        x: 464
-        y: 44
-        width: 139
-        height: 202
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 88a58fb904d25a042b91ec980adce840
-      internalID: 2065708114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_19
-      rect:
-        serializedVersion: 2
-        x: 660
-        y: 44
-        width: 141
-        height: 219
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2180c798f77e79549b351e5335879af5
-      internalID: -430836517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_20
-      rect:
-        serializedVersion: 2
-        x: 852
-        y: 45
-        width: 138
-        height: 230
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cdca36439a0210e4490307dc2dc6f141
-      internalID: -1819548285
+      spriteID: 242f775115bfa2b4190be29728f56be2
+      internalID: -1243882876
       vertices: []
       indices: 
       edges: []
@@ -574,27 +490,23 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Character_0: -1223707862
-      Character_1: 55716707
-      Character_10: 2071265979
-      Character_11: -1924833317
-      Character_12: -2092598908
-      Character_13: 8476104
-      Character_14: 1509315376
-      Character_15: 1357980164
-      Character_16: 833784080
-      Character_17: 1023389184
-      Character_18: 2065708114
-      Character_19: -430836517
-      Character_2: -764246916
-      Character_20: -1819548285
-      Character_3: 1065867793
-      Character_4: -1462205283
-      Character_5: 449081951
-      Character_6: 676543274
-      Character_7: 335166018
-      Character_8: -1446288971
-      Character_9: 2101110014
+      Mapache Dra_0: -615494298
+      Mapache Dra_1: -1383848390
+      Mapache Dra_10: 52353649
+      Mapache Dra_11: 1367125885
+      Mapache Dra_12: -102993491
+      Mapache Dra_13: -540426192
+      Mapache Dra_14: 960841296
+      Mapache Dra_15: -1338306753
+      Mapache Dra_16: -1243882876
+      Mapache Dra_2: 1549330544
+      Mapache Dra_3: 399224372
+      Mapache Dra_4: 1436710802
+      Mapache Dra_5: -549759331
+      Mapache Dra_6: 1644565892
+      Mapache Dra_7: -1012505400
+      Mapache Dra_8: 770949355
+      Mapache Dra_9: -793224288
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

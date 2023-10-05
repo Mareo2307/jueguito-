@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 250
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -106,9 +106,400 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mapache_GorroDePapel_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 817
+        width: 121
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf46b59e489bd6479e83e892fde3d28
+      internalID: -889852531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache_GorroDePapel_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 605
+        width: 79
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354f9a8182c5023468da58fec1c7f4df
+      internalID: 1675320205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache_GorroDePapel_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 614
+        width: 78
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c099d84d1f10b54a966707d1e230800
+      internalID: 1539579659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache_GorroDePapel_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 612
+        width: 79
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0654a6a0d6fd1824a8eda5cb785078ec
+      internalID: 275813824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache_GorroDePapel_4
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 604
+        width: 79
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd866c4cc6e0f2942b38c41beaf2de1d
+      internalID: -1352851549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache_GorroDePapel_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 449
+        width: 172
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ceea303df9cec44b80db81a75b8df3
+      internalID: 404452984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache_GorroDePapel_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 445
+        width: 175
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d6a3057095404439ebfc95bebf532d
+      internalID: -41795730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache_GorroDePapel_7
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 447
+        width: 174
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048c04afdb248b748a2a5f721fc29ff9
+      internalID: -1586289588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache_GorroDePapel_8
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 450
+        width: 170
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9d6f1e19e4c704a9250608134e59f9
+      internalID: -1245757451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache_GorroDePapel_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 436
+        width: 23
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57454e7cb253f9d4d8d6c06bcbd92d5a
+      internalID: -650268753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache_GorroDePapel_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 279
+        width: 171
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c78e57b702377479d0ee2ed51806ac
+      internalID: 1327847545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache_GorroDePapel_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 277
+        width: 177
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72bd37e35fb8994abce12291a0dd487
+      internalID: 1918673779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache_GorroDePapel_12
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 271
+        width: 176
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa802ba056a5494f97946452fe9e249
+      internalID: 2016225051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache_GorroDePapel_13
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 276
+        width: 175
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d672541e9cd4e814d9b3d74d9224d9fa
+      internalID: 601182992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache_GorroDePapel_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 115
+        width: 78
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecb7e2bf90af0c4a97793e1666719b9
+      internalID: -1074539158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache_GorroDePapel_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 114
+        width: 79
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28052e75f7a2b2d46b84c3dbac72327e
+      internalID: -203975711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache_GorroDePapel_16
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 113
+        width: 78
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434bb413a6ee8b240aa7ab326f1231a3
+      internalID: -2117067992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache_GorroDePapel_17
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 114
+        width: 79
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7efbcb9f839a1a41b01bec6c629026e
+      internalID: -1197331659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +510,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mapache_GorroDePapel_0: -889852531
+      Mapache_GorroDePapel_1: 1675320205
+      Mapache_GorroDePapel_10: 1327847545
+      Mapache_GorroDePapel_11: 1918673779
+      Mapache_GorroDePapel_12: 2016225051
+      Mapache_GorroDePapel_13: 601182992
+      Mapache_GorroDePapel_14: -1074539158
+      Mapache_GorroDePapel_15: -203975711
+      Mapache_GorroDePapel_16: -2117067992
+      Mapache_GorroDePapel_17: -1197331659
+      Mapache_GorroDePapel_2: 1539579659
+      Mapache_GorroDePapel_3: 275813824
+      Mapache_GorroDePapel_4: -1352851549
+      Mapache_GorroDePapel_5: 404452984
+      Mapache_GorroDePapel_6: -41795730
+      Mapache_GorroDePapel_7: -1586289588
+      Mapache_GorroDePapel_8: -1245757451
+      Mapache_GorroDePapel_9: -650268753
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

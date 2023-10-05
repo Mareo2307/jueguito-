@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 035cb2bd28991514da9b19ce0a11afb0
+guid: f0100a235e294aa4f963a89cc67b560a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 250
+  spritePixelsToUnits: 280
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,6 +69,19 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -106,459 +119,362 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Character_0
+      name: Mapache Pir_0
       rect:
         serializedVersion: 2
-        x: 53
-        y: 796
-        width: 142
-        height: 231
+        x: 155
+        y: 845
+        width: 151
+        height: 173
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c01d09e6b3229248902dfde99a4a9a3
-      internalID: -1223707862
+      spriteID: c5f83a7917cbe50459061e43760b3c36
+      internalID: 1339934555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_1
+      name: Mapache Pir_1
       rect:
         serializedVersion: 2
-        x: 239
-        y: 796
-        width: 135
-        height: 229
+        x: 155
+        y: 619
+        width: 122
+        height: 179
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da9138c017f7c094eb3b4e5ad4a11411
-      internalID: 55716707
+      spriteID: 8ab0745d0420d00488907e1ab3ab8bb2
+      internalID: 2065920027
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_2
+      name: Mapache Pir_2
       rect:
         serializedVersion: 2
-        x: 413
-        y: 796
-        width: 128
-        height: 212
+        x: 356
+        y: 624
+        width: 124
+        height: 173
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0dd45deea31757243b5b43ee1225b0f0
-      internalID: -764246916
+      spriteID: 7033ade13c174954b98487f67dd2231b
+      internalID: 1113716752
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_3
+      name: Mapache Pir_3
       rect:
         serializedVersion: 2
-        x: 574
-        y: 796
-        width: 125
-        height: 201
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6077198a0aa0c0409a91df57816d735
-      internalID: 1065867793
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_4
-      rect:
-        serializedVersion: 2
-        x: 735
-        y: 796
-        width: 128
-        height: 212
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a6c8181c48adf6645a5c2a1929ce6670
-      internalID: -1462205283
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_5
-      rect:
-        serializedVersion: 2
-        x: 893
-        y: 796
-        width: 135
-        height: 229
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 105a2a5fe787f4d41a181ed71a7fab0a
-      internalID: 449081951
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_6
-      rect:
-        serializedVersion: 2
-        x: 151
-        y: 539
-        width: 116
-        height: 231
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 56c6ffc60d0223d429740cc6944f539a
-      internalID: 676543274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_7
-      rect:
-        serializedVersion: 2
-        x: 326
-        y: 539
+        x: 565
+        y: 623
         width: 119
-        height: 228
+        height: 171
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8df7fc43e2a792545a8be35edf2b1b3c
-      internalID: 335166018
+      spriteID: 243d16498cc5a1e48bafaa2c1b9a09dc
+      internalID: 1917009691
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_8
+      name: Mapache Pir_4
       rect:
         serializedVersion: 2
-        x: 486
-        y: 541
-        width: 131
-        height: 219
+        x: 754
+        y: 616
+        width: 123
+        height: 180
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9881752681374ee449e67376ccc5e48a
-      internalID: -1446288971
+      spriteID: c1e160b67d090344c8b85b482a62cbdf
+      internalID: 850335221
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character_9
+      name: Mapache Pir_5
       rect:
         serializedVersion: 2
-        x: 649
-        y: 539
+        x: 130
+        y: 450
+        width: 184
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c3c8432fa6f7d489b2e99f2f011f7f
+      internalID: -554574044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache Pir_6
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 446
+        width: 188
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe39b41ad4067ab40ab5bb16093eaf4f
+      internalID: -377335634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache Pir_7
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 447
+        width: 186
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175c87d2616fcd145816bdbb2251ab81
+      internalID: 880028416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache Pir_8
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 439
+        width: 179
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8252f5cced5b4488e059adbe02df25
+      internalID: -659269639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache Pir_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 267
+        width: 183
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496cb79b5bdc4e940afc3ff86bd95f9b
+      internalID: 371567503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache Pir_10
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 266
+        width: 188
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa7875ee38fafa4cbfcbbce721dc04e
+      internalID: -276671602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache Pir_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 262
+        width: 188
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7695ee355e9dc924d82bc6030374dd0f
+      internalID: 1330916223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache Pir_12
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 263
+        width: 186
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2af70994616db24eb9245b29e354913
+      internalID: -88803870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache Pir_13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 90
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3071a4dcf529e5444856ae5b9879b6b8
+      internalID: 303751397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache Pir_14
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 88
+        width: 115
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c678cb69e5765f4a92817dfea64bca6
+      internalID: 1872313351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache Pir_15
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 87
+        width: 120
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf07d1c18bce63458369ae2723c983b
+      internalID: -1404891139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapache Pir_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 89
         width: 119
-        height: 228
+        height: 143
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9cb95427d7a4654f827af841c9baabe
-      internalID: 2101110014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_10
-      rect:
-        serializedVersion: 2
-        x: 814
-        y: 539
-        width: 116
-        height: 230
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5ba55175bf4d88948b6a7adb9812e6ff
-      internalID: 2071265979
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_11
-      rect:
-        serializedVersion: 2
-        x: 151
-        y: 288
-        width: 116
-        height: 231
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 43f58cbf5c26b0f4bbc8ad3b5013fbb7
-      internalID: -1924833317
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_12
-      rect:
-        serializedVersion: 2
-        x: 313
-        y: 288
-        width: 119
-        height: 228
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d21d4097b054c24b8cbf0be4b166a48
-      internalID: -2092598908
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_13
-      rect:
-        serializedVersion: 2
-        x: 464
-        y: 291
-        width: 131
-        height: 218
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2f3ce561ba492474e93443daf9ebe131
-      internalID: 8476104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_14
-      rect:
-        serializedVersion: 2
-        x: 636
-        y: 288
-        width: 119
-        height: 228
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a1fc68dc1d0a2194a997b49592f3ff17
-      internalID: 1509315376
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_15
-      rect:
-        serializedVersion: 2
-        x: 814
-        y: 289
-        width: 116
-        height: 230
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9259d334a67cf5b42a4b80a591c73bfc
-      internalID: 1357980164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_16
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 44
-        width: 138
-        height: 230
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5cf29b249ae6aca4e812bd71ed5ed802
-      internalID: 833784080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_17
-      rect:
-        serializedVersion: 2
-        x: 275
-        y: 44
-        width: 141
-        height: 219
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f72ccb7d7f1083479c68644e37db835
-      internalID: 1023389184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_18
-      rect:
-        serializedVersion: 2
-        x: 464
-        y: 44
-        width: 139
-        height: 202
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 88a58fb904d25a042b91ec980adce840
-      internalID: 2065708114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_19
-      rect:
-        serializedVersion: 2
-        x: 660
-        y: 44
-        width: 141
-        height: 219
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2180c798f77e79549b351e5335879af5
-      internalID: -430836517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Character_20
-      rect:
-        serializedVersion: 2
-        x: 852
-        y: 45
-        width: 138
-        height: 230
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cdca36439a0210e4490307dc2dc6f141
-      internalID: -1819548285
+      spriteID: 1bc6024917f20e74581156e34f7f3f4f
+      internalID: -632157391
       vertices: []
       indices: 
       edges: []
@@ -574,27 +490,23 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Character_0: -1223707862
-      Character_1: 55716707
-      Character_10: 2071265979
-      Character_11: -1924833317
-      Character_12: -2092598908
-      Character_13: 8476104
-      Character_14: 1509315376
-      Character_15: 1357980164
-      Character_16: 833784080
-      Character_17: 1023389184
-      Character_18: 2065708114
-      Character_19: -430836517
-      Character_2: -764246916
-      Character_20: -1819548285
-      Character_3: 1065867793
-      Character_4: -1462205283
-      Character_5: 449081951
-      Character_6: 676543274
-      Character_7: 335166018
-      Character_8: -1446288971
-      Character_9: 2101110014
+      Mapache Pir_0: 1339934555
+      Mapache Pir_1: 2065920027
+      Mapache Pir_10: -276671602
+      Mapache Pir_11: 1330916223
+      Mapache Pir_12: -88803870
+      Mapache Pir_13: 303751397
+      Mapache Pir_14: 1872313351
+      Mapache Pir_15: -1404891139
+      Mapache Pir_16: -632157391
+      Mapache Pir_2: 1113716752
+      Mapache Pir_3: 1917009691
+      Mapache Pir_4: 850335221
+      Mapache Pir_5: -554574044
+      Mapache Pir_6: -377335634
+      Mapache Pir_7: 880028416
+      Mapache Pir_8: -659269639
+      Mapache Pir_9: 371567503
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
