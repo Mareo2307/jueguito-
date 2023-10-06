@@ -5114,7 +5114,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1375490476}
-  escapeSpeed: 1
+  escapeSpeed: 2
   anim: {fileID: 482302188}
 --- !u!61 &482302193
 BoxCollider2D:
@@ -6653,7 +6653,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1375490476}
-  escapeSpeed: 1
+  escapeSpeed: 3
   anim: {fileID: 585862953}
 --- !u!50 &585862958
 Rigidbody2D:
@@ -9042,7 +9042,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1375490476}
-  escapeSpeed: 1
+  escapeSpeed: 3
   anim: {fileID: 797972925}
 --- !u!1 &807156808
 GameObject:
