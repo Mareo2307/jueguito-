@@ -1308,7 +1308,7 @@ Transform:
   m_LocalPosition: {x: -7.012823, y: 2.3258154, z: -0.22830392}
   m_LocalScale: {x: 7.8275743, y: 0.875, z: 1}
   m_ConstrainProportionsScale: 0
-<<<<<<< Updated upstream
+ Updated upstream
   m_Children:
   - {fileID: 1425466346}
   - {fileID: 334339601}
@@ -1355,7 +1355,7 @@ Transform:
   - {fileID: 965715255}
   - {fileID: 592630752}
   - {fileID: 1555913830}
-=======
+
   m_Children: []
   m_Father: {fileID: 720948599}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1434,7 +1434,7 @@ Transform:
   m_LocalScale: {x: 0.63843656, y: 3.9162288, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
->>>>>>> Stashed changes
+ Stashed changes
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &142204175
@@ -3310,11 +3310,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1613059018}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
+ Updated upstream
 --- !u!1 &424256607
-=======
+
 --- !u!1 &414916533
->>>>>>> Stashed changes
+ Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3322,33 +3322,33 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< Updated upstream
+ Updated upstream
   - component: {fileID: 424256608}
   - component: {fileID: 424256609}
   m_Layer: 0
   m_Name: coll (41)
-=======
+
   - component: {fileID: 414916534}
   - component: {fileID: 414916535}
   m_Layer: 0
   m_Name: coll (13)
->>>>>>> Stashed changes
+ Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< Updated upstream
+ Updated upstream
 --- !u!4 &424256608
-=======
+
 --- !u!4 &414916534
->>>>>>> Stashed changes
+ Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
+ Updated upstream
   m_GameObject: {fileID: 424256607}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -3359,7 +3359,7 @@ Transform:
   m_Father: {fileID: 137556800}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &424256609
-=======
+
   m_GameObject: {fileID: 414916533}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -3370,17 +3370,17 @@ Transform:
   m_Father: {fileID: 720948599}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &414916535
->>>>>>> Stashed changes
+ Stashed changes
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
+ Updated upstream
   m_GameObject: {fileID: 424256607}
-=======
+
   m_GameObject: {fileID: 414916533}
->>>>>>> Stashed changes
+ Stashed changes
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -3406,11 +3406,11 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-<<<<<<< Updated upstream
+ Updated upstream
   m_Offset: {x: 0, y: 0}
-=======
+
   m_Offset: {x: 6.364183, y: -0.20232223}
->>>>>>> Stashed changes
+Stashed changes
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -3421,9 +3421,9 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-<<<<<<< Updated upstream
+ Updated upstream
   m_Size: {x: 1, y: 1}
-=======
+
   m_Size: {x: 1.8994417, y: 0.11796269}
   m_EdgeRadius: 0
 --- !u!1 &424211326
@@ -3502,7 +3502,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 1.2652111, y: 0.8187449}
->>>>>>> Stashed changes
+ Stashed changes
   m_EdgeRadius: 0
 --- !u!1 &429603319
 GameObject:
@@ -5792,19 +5792,19 @@ Transform:
   m_GameObject: {fileID: 619134828}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-<<<<<<< Updated upstream
+ Updated upstream
   m_LocalPosition: {x: 1.2673147, y: -5.188571, z: 0}
   m_LocalScale: {x: 1, y: 0.2875, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 137556800}
-=======
+
   m_LocalPosition: {x: 2.9071767, y: -2.2141848, z: -0.22830392}
   m_LocalScale: {x: 7.8275743, y: 0.2515625, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 720948599}
->>>>>>> Stashed changes
+ Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &634910832
 GameObject:
@@ -6387,7 +6387,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
+Updated upstream
 --- !u!1 &685359456
 GameObject:
   m_ObjectHideFlags: 0
@@ -6543,9 +6543,9 @@ BoxCollider2D:
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
 --- !u!1 &734781381
-=======
+
 --- !u!1 &705468481
->>>>>>> Stashed changes
+ Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7320,19 +7320,19 @@ Transform:
   m_GameObject: {fileID: 781075162}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-<<<<<<< Updated upstream
+ Updated upstream
   m_LocalPosition: {x: 0.79462683, y: -2.9028568, z: 0}
   m_LocalScale: {x: 0.0815625, y: 4.47569, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 137556800}
-=======
+
   m_LocalPosition: {x: -0.7928233, y: -0.21418476, z: -0.22830392}
   m_LocalScale: {x: 0.63843656, y: 3.9162288, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 720948599}
->>>>>>> Stashed changes
+ Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &796976497
 GameObject:
@@ -7930,11 +7930,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
+ Updated upstream
 --- !u!1 &871604701
-=======
+
 --- !u!1 &880806067
->>>>>>> Stashed changes
+ Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7942,36 +7942,36 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< Updated upstream
+ Updated upstream
   - component: {fileID: 871604702}
   - component: {fileID: 871604703}
   m_Layer: 0
   m_Name: coll (12)
-=======
+
   - component: {fileID: 880806068}
   - component: {fileID: 880806070}
   - component: {fileID: 880806069}
   - component: {fileID: 880806071}
   m_Layer: 5
   m_Name: return
->>>>>>> Stashed changes
+ Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< Updated upstream
+Updated upstream
 --- !u!4 &871604702
 Transform:
-=======
+
 --- !u!224 &880806068
 RectTransform:
->>>>>>> Stashed changes
+ Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
+ Updated upstream
   m_GameObject: {fileID: 871604701}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -7983,7 +7983,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &871604703
 BoxCollider2D:
-=======
+
   m_GameObject: {fileID: 880806067}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -8000,12 +8000,12 @@ BoxCollider2D:
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &880806069
 MonoBehaviour:
->>>>>>> Stashed changes
+ Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
+ Updated upstream
   m_GameObject: {fileID: 871604701}
   m_Enabled: 1
   m_Density: 1
@@ -8045,7 +8045,7 @@ MonoBehaviour:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
-=======
+
   m_GameObject: {fileID: 880806067}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -8134,7 +8134,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
->>>>>>> Stashed changes
+ Stashed changes
 --- !u!1 &884569473
 GameObject:
   m_ObjectHideFlags: 0
@@ -10376,11 +10376,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< Updated upstream
+ Updated upstream
 --- !u!1 &1209924449
-=======
+
 --- !u!1 &1175638258
->>>>>>> Stashed changes
+ Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10388,33 +10388,33 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< Updated upstream
+ Updated upstream
   - component: {fileID: 1209924450}
   - component: {fileID: 1209924451}
   m_Layer: 0
   m_Name: coll (24)
-=======
+
   - component: {fileID: 1175638259}
   - component: {fileID: 1175638260}
   m_Layer: 0
   m_Name: coll (11)
->>>>>>> Stashed changes
+ Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< Updated upstream
+ Updated upstream
 --- !u!4 &1209924450
-=======
+
 --- !u!4 &1175638259
->>>>>>> Stashed changes
+ Stashed changes
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
+ Updated upstream
   m_GameObject: {fileID: 1209924449}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -10425,7 +10425,7 @@ Transform:
   m_Father: {fileID: 137556800}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1209924451
-=======
+
   m_GameObject: {fileID: 1175638258}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -10436,17 +10436,17 @@ Transform:
   m_Father: {fileID: 720948599}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1175638260
->>>>>>> Stashed changes
+ Stashed changes
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
+ Updated upstream
   m_GameObject: {fileID: 1209924449}
-=======
+
   m_GameObject: {fileID: 1175638258}
->>>>>>> Stashed changes
+ Stashed changes
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -10472,11 +10472,11 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-<<<<<<< Updated upstream
+ Updated upstream
   m_Offset: {x: 0, y: 0}
-=======
+
   m_Offset: {x: 6.6812983, y: -0.22242668}
->>>>>>> Stashed changes
+ Stashed changes
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -10487,7 +10487,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-<<<<<<< Updated upstream
+ Updated upstream
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
 --- !u!1 &1216221975
@@ -10566,9 +10566,9 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
-=======
+
   m_Size: {x: 1.2652111, y: 0.19263618}
->>>>>>> Stashed changes
+ Stashed changes
   m_EdgeRadius: 0
 --- !u!1 &1218527477
 GameObject:
@@ -11911,18 +11911,18 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
-<<<<<<< Updated upstream
+ Updated upstream
 --- !u!1 &1375247497
 GameObject:
-=======
+
 --- !u!114 &1367569357
 MonoBehaviour:
->>>>>>> Stashed changes
+ Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
+ Updated upstream
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1375247498}
@@ -11994,7 +11994,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
-=======
+
   m_GameObject: {fileID: 1367569351}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -12005,7 +12005,7 @@ BoxCollider2D:
   resume: {fileID: 880806071}
   exit: {fileID: 1684679113}
   Pause: {fileID: 1519403991}
->>>>>>> Stashed changes
+ Stashed changes
 --- !u!1 &1375490473
 GameObject:
   m_ObjectHideFlags: 0
@@ -12115,7 +12115,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
+ Updated upstream
 --- !u!1 &1383101777
 GameObject:
   m_ObjectHideFlags: 0
@@ -12149,19 +12149,19 @@ Transform:
   m_Father: {fileID: 137556800}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1383101779
-=======
+
 --- !u!61 &1375490477
->>>>>>> Stashed changes
+ Stashed changes
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
+ Updated upstream
   m_GameObject: {fileID: 1383101777}
-=======
+
   m_GameObject: {fileID: 1375490473}
->>>>>>> Stashed changes
+ Stashed changes
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -12187,7 +12187,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-<<<<<<< Updated upstream
+ Updated upstream
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -12195,7 +12195,7 @@ BoxCollider2D:
     oldSize: {x: 0, y: 0}
     newSize: {x: 0, y: 0}
     adaptiveTilingThreshold: 0
-=======
+
   m_Offset: {x: -0.011744976, y: 0.0039150417}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -12203,15 +12203,15 @@ BoxCollider2D:
     oldSize: {x: 0.568, y: 0.924}
     newSize: {x: 1.42, y: 2.31}
     adaptiveTilingThreshold: 0.5
->>>>>>> Stashed changes
+ Stashed changes
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-<<<<<<< Updated upstream
+ Updated upstream
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
-=======
+
   m_Size: {x: 0.6228101, y: 0.9788099}
   m_EdgeRadius: 0
 --- !u!50 &1375490478
@@ -12256,7 +12256,7 @@ MonoBehaviour:
   speed: 5
   rb: {fileID: 1375490478}
   anim: {fileID: 1375490474}
->>>>>>> Stashed changes
+ Stashed changes
 --- !u!1 &1386118997
 GameObject:
   m_ObjectHideFlags: 0
@@ -12657,19 +12657,19 @@ Transform:
   m_GameObject: {fileID: 1425466344}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-<<<<<<< Updated upstream
+ Updated upstream
   m_LocalPosition: {x: -0.0025550674, y: -5.188571, z: 0}
   m_LocalScale: {x: 1, y: 0.2875, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 137556800}
-=======
+
   m_LocalPosition: {x: -7.0328236, y: -2.2141848, z: -0.22830392}
   m_LocalScale: {x: 7.8275743, y: 0.2515625, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 720948599}
->>>>>>> Stashed changes
+ Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1428301680
 GameObject:
@@ -15325,19 +15325,19 @@ Transform:
   m_GameObject: {fileID: 1662607429}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-<<<<<<< Updated upstream
+ Updated upstream
   m_LocalPosition: {x: 1.2098256, y: -0.9142856, z: 0}
   m_LocalScale: {x: 0.725, y: 0.8553124, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 137556800}
-=======
+
   m_LocalPosition: {x: 2.457177, y: 1.5258154, z: -0.22830392}
   m_LocalScale: {x: 5.6749916, y: 0.7483984, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 720948599}
->>>>>>> Stashed changes
+ Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1665839722
 GameObject:
@@ -19467,7 +19467,7 @@ SceneRoots:
   - {fileID: 340948359}
   - {fileID: 1501002333}
   - {fileID: 1375490476}
-<<<<<<< Updated upstream
+ Updated upstream
   - {fileID: 797972927}
   - {fileID: 2111722068}
   - {fileID: 482302190}
@@ -19476,11 +19476,11 @@ SceneRoots:
   - {fileID: 137556800}
   - {fileID: 2008416634}
   - {fileID: 1315603896}
-=======
+
   - {fileID: 1613059018}
   - {fileID: 720948599}
   - {fileID: 1631222743}
   - {fileID: 705468483}
   - {fileID: 140413992}
   - {fileID: 1263536953}
->>>>>>> Stashed changes
+ Stashed changes
