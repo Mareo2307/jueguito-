@@ -17,18 +17,18 @@ public class PlayerMovement : MonoBehaviour
 
     public void Movement()
     {
-        float movex = Input.GetAxisRaw("Horizontal");
-        float movey = Input.GetAxisRaw("Vertical");
+        float movX = Input.GetAxisRaw("Horizontal");
+        float movY = Input.GetAxisRaw("Vertical");
 
-        moveDirection = new Vector2(movex, movey).normalized;
+        moveDirection = new Vector2(movX, movY).normalized;
 
         rb.velocity = new Vector2(moveDirection.x * speed, moveDirection.y * speed);
     }
     
     public void Animate()
     {
-        anim.SetFloat("moveX", moveDirection.x);
-        anim.SetFloat("moveY", moveDirection.y);
+        anim.SetFloat("movX", moveDirection.x);
+        anim.SetFloat("movY", moveDirection.y);
     }
 
 }

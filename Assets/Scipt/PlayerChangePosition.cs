@@ -10,19 +10,19 @@ public class PlayerChangePosition : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
        if (collision.gameObject.tag == "Area2")
-        { Vector3 camPosition = new Vector3(0,-10.93f, -10f);
+        { Vector3 camPosition = new Vector3(0,-11.01f, -10f);
             cam.transform.position = camPosition;
 
-          Vector3 playerPosition = new Vector3(0,- 6.96f, 0);
+          Vector3 playerPosition = new Vector3(-0.02f,-7.83f, 0);
             this.transform.position = playerPosition;
         }
 
         if (collision.gameObject.tag == "Area1")
         {
-            Vector3 camPosition = new Vector3(0, 0, -10);
+            Vector3 camPosition = new Vector3(0, 0.07f, -10);
             cam.transform.position = camPosition;
 
-            Vector3 playerPosition = new Vector3(-0.94f, -4.05f, 0);
+            Vector3 playerPosition = new Vector3(-0.02f, -3.97f, 0);
             this.transform.position = playerPosition;
         }
     }
