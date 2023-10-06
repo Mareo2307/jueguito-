@@ -35,9 +35,17 @@ public class Racoonmovement : MonoBehaviour
         GetComponent<Rigidbody2D>().velocity = escapeDirection * escapeSpeed;
     }
 
-   
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        // Verificar si el objeto que colisionó es el jugador
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            // Destruir el enemigo
+            Destroy(gameObject);
+        }
+    }
 
-    
+
 
 
 }
