@@ -64,4 +64,9 @@ public class MenuPausa : MonoBehaviour
 
         }
     }
+
+    public void Menu()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+    }
 }
